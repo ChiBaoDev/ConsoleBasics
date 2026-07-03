@@ -1,10 +1,37 @@
-cách chạy dự án
+### Bài 1
+- In thông tin cá nhân.
+- In thông tin lớp học.
 
-1 cài đủ môi trường net. sdk
+### Bài 2
+- Nhập tên sản phẩm.
+- Nhập số lượng.
+- Nhập đơn giá.
+- Tính tổng tiền.
 
-2 mở terminal cd đúng thư mục
+### Bài 3
+- Nhập năm sinh.
+- Tính tuổi gần đúng.
+- Xử lý nhập sai bằng `TryParse`.
 
-3 gõ lệnh dotnet run
+## Kiến thức áp dụng
+
+- Console.WriteLine()
+- Console.ReadLine()
+- int
+- double
+- decimal
+- string
+- bool
+- DateTime
+- Toán tử + - * / %
+- TryParse()
+
+## Cách chạy
+
+```bash
+dotnet restore
+dotnet run
+```
 
 sự khác nhau của các biến trong tiền tệ là do số thập phân sau dấu phẩy
 
