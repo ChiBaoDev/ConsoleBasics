@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bao\\OneDrive\\Máy tính\\ConsoleBasics\\ConsoleBasics-Day02\\ConsoleBasics-Day02.csproj",
-      "projectName": "ConsoleBasics-Day02",
-      "projectPath": "C:\\Users\\Bao\\OneDrive\\Máy tính\\ConsoleBasics\\ConsoleBasics-Day02\\ConsoleBasics-Day02.csproj",
+      "projectUniqueName": "C:\\Users\\Bao\\OneDrive\\Máy tính\\ConsoleBasics\\ConsoleBasics-Day03\\ConsoleBasics-Day03.csproj",
+      "projectName": "ConsoleBasics-Day03",
+      "projectPath": "C:\\Users\\Bao\\OneDrive\\Máy tính\\ConsoleBasics\\ConsoleBasics-Day03\\ConsoleBasics-Day03.csproj",
       "packagesPath": "C:\\Users\\Bao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bao\\OneDrive\\Máy tính\\ConsoleBasics\\ConsoleBasics-Day02\\obj\\",
+      "outputPath": "C:\\Users\\Bao\\OneDrive\\Máy tính\\ConsoleBasics\\ConsoleBasics-Day03\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
