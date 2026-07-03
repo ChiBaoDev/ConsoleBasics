@@ -1,0 +1,14 @@
+C:\Users\Bao\OneDrive\Máy tính\ConsoleBasics\ConsoleBasics-Day02\bin\Debug\net9.0\ConsoleBasics-Day02.exe
+C:\Users\Bao\OneDrive\Máy tính\ConsoleBasics\ConsoleBasics-Day02\bin\Debug\net9.0\ConsoleBasics-Day02.deps.json
+C:\Users\Bao\OneDrive\Máy tính\ConsoleBasics\ConsoleBasics-Day02\bin\Debug\net9.0\ConsoleBasics-Day02.runtimeconfig.json
+C:\Users\Bao\OneDrive\Máy tính\ConsoleBasics\ConsoleBasics-Day02\bin\Debug\net9.0\ConsoleBasics-Day02.dll
+C:\Users\Bao\OneDrive\Máy tính\ConsoleBasics\ConsoleBasics-Day02\bin\Debug\net9.0\ConsoleBasics-Day02.pdb
+C:\Users\Bao\OneDrive\Máy tính\ConsoleBasics\ConsoleBasics-Day02\obj\Debug\net9.0\ConsoleBasics-Day02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bao\OneDrive\Máy tính\ConsoleBasics\ConsoleBasics-Day02\obj\Debug\net9.0\ConsoleBasics-Day02.AssemblyInfoInputs.cache
+C:\Users\Bao\OneDrive\Máy tính\ConsoleBasics\ConsoleBasics-Day02\obj\Debug\net9.0\ConsoleBasics-Day02.AssemblyInfo.cs
+C:\Users\Bao\OneDrive\Máy tính\ConsoleBasics\ConsoleBasics-Day02\obj\Debug\net9.0\ConsoleBasics-Day02.csproj.CoreCompileInputs.cache
+C:\Users\Bao\OneDrive\Máy tính\ConsoleBasics\ConsoleBasics-Day02\obj\Debug\net9.0\ConsoleBasics-Day02.dll
+C:\Users\Bao\OneDrive\Máy tính\ConsoleBasics\ConsoleBasics-Day02\obj\Debug\net9.0\refint\ConsoleBasics-Day02.dll
+C:\Users\Bao\OneDrive\Máy tính\ConsoleBasics\ConsoleBasics-Day02\obj\Debug\net9.0\ConsoleBasics-Day02.pdb
+C:\Users\Bao\OneDrive\Máy tính\ConsoleBasics\ConsoleBasics-Day02\obj\Debug\net9.0\ConsoleBasics-Day02.genruntimeconfig.cache
+C:\Users\Bao\OneDrive\Máy tính\ConsoleBasics\ConsoleBasics-Day02\obj\Debug\net9.0\ref\ConsoleBasics-Day02.dll
