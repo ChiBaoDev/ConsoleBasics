@@ -1,3 +1,25 @@
+### Bài 1
+- Tính điểm trung bình.
+- Xếp loại sinh viên.
+
+### Bài 2
+- Nhập hóa đơn.
+- Áp dụng giảm giá.
+- Tính tiền thanh toán.
+
+### Bài 3
+- Chọn loại khách hàng.
+- Áp dụng mức giảm giá theo từng loại.
+
+## Kiến thức áp dụng
+
+- int.Parse()
+- decimal.Parse()
+- TryParse()
+- if/else
+- switch-case
+- Validate dữ liệu
+
 # 
 | stt | dữ liệu nhập | lý do không hợp lệ               | kết quả                            |
 | --- | --------------- | ------------------------------------ | ------------------------------------ |
